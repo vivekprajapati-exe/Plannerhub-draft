@@ -39,6 +39,7 @@ function App() {
       <div className="pomo_wrapper">
         <Pomodoro/>
       </div>
+      <div className="line">s</div>
     <div className="todo_wrapper">
       <div id="todo_form_wrapper">
         <TodoForm />
